@@ -85,7 +85,7 @@ I’ve historically only seen Ai as a tool to enhance my daily working experienc
 
 ![qr code linking to - Software Engineering Daily](./image/1.png)
 
-- [How about Tomorrow?](https://pca.st/ibumorp2) — Adam Elmore & Dax Raad (SST & OpenCode)
+- [How about Tomorrow?](https://pca.st/ibumorp2) — Adam Elmore & Dax Raad (SST & [OpenCode](https://github.com/sst/opencode))
   - There is something interesting about OpenCode, which is they have LSP integrations. They have talked about how this impacts the agent to ensure it is giving you valid and can correct itself. For those using agents, have you ever had an Ai agent generate code that is calling a method that doesn’t exist? This is one of the examples by using the LSP will help to resolve.
 
 ![qr code linking to - How about Tomorrow?](./image/2.png)
